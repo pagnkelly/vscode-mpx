@@ -2,6 +2,8 @@
   <h1 align="center">vscode-mpx</h1>
 </p>
 
+## 告示
+> 此仓库不再维护，移至[这里](https://github.com/mpx-ecology/vscode-mpx)
 ## 期望功能
 
   功能 | 完成度 | 优先级 | 实现难度
